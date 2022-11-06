@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on my portfolio and a<br>cloud -native DevOP project in AWS <br>👯 I’m looking to collaborate on beginner's open source projects in JS<br>🤝 I’m looking for help with refining my JS skills<br>🌱 I’m currently learning React, Next.js and Typescript plus AWS-related tools <br>💬 Ask me about HTML, CSS, Tailwindcss, books<br>⚡ Fun fact I couldn't live without music and books!
+🔭 I’m currently working on my personal portfolio as well as a cloud-native DevOPs project in AWS <br>👯 I’m looking to collaborate on beginner's open source projects in JS<br>🤝 I’m looking for help with refining my JS skills<br>🌱 I’m currently learning React, Next.js and Typescript plus AWS-related tools <br>💬 Ask me about HTML, CSS, Tailwindcss, books<br>⚡ Fun fact I couldn't live without music and books!
 
 
 ## 🌐 Socials:
