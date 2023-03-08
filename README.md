@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-# 💫 About Me:
+
 🔭 I’m currently working on my personal portfolio and a variety of smaller projects<br>👯 I’m looking to collaborate on open source projects and to try out pair programming<br>🤝  I’m currently learning and/or deepening my knowledge of React, Next.js and Typescript.<br> Three.js, Astro and Svelte.js, T3 are high on my want-to-learn list in 2023 <br>💬 Ask me about HTML, CSS, Tailwindcss, oh, and books<br>⚡ Fun fact: In 2019, I lead a few improv classes at CERN, Switzerland
 
 
-## 🌐 Socials:
+Connect with me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anjapetry/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@TreyJapan) 
 
 # 💻 Tech Stack:
