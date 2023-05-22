@@ -1,7 +1,12 @@
 ### Hi there, hallo, bonjour, hoi, dag 👋 
+ 
+I'm Anja, a language-loving frontend web developer who loves learning something new every day 🌞
 
+🔭 Currently working on my personal portfolio plus a variety of projects to deepen my knowledge React, Next.js 13, Typescript and databases.<br> 
+In addition to that, Three.js, Astro and Svelte are high on my want-to-learn list in 2023<br>
+Tailwindcss friends unite 🎨
 
-🔭 I’m currently working on my personal portfolio and a variety of (mainly React and Next.js) projects<br>👯 I’m looking to collaborate on open source projects and to try out pair programming<br>🤝  I’m currently learning and/or deepening my knowledge of React, Next.js 13 and Typescript.<br> Three.js (I finally started Bruno Simon's course called Threejs Journey!), Astro and Svelte are high on my want-to-learn list in 2023<br>💬 Ask me about HTML, CSS, Tailwindcss, and feel free to nerd out with me on literatur, art, and music!<br>⚡ Fun fact: In 2019, I lead a few improv classes at CERN, Switzerland 
+Join daily.dev! It's a professional network for developers to learn, collaborate, and grow together.
 
 Connect with me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anjapetry/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@TreyJapan) 
