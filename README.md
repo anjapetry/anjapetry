@@ -2,13 +2,12 @@
  
 I'm Anja, a language-loving frontend web developer who loves learning something new every day 🌞
 
-🔭 Currently working on my personal portfolio plus a variety of projects to deepen my knowledge React, Next.js 13, Typescript and databases.<br> 
-In addition to that, Three.js, Astro and Svelte are high on my want-to-learn list in 2023<br>
-Tailwindcss friends unite 🎨
+🔭 Currently working on my personal portfolio plus a variety of projects to deepen my knowledge React, Next.js 13, Typescript and databases.
+In addition to that, Three.js, Astro and Svelte are high on my want-to-learn list in 2023. Tailwindcss friends unite 🎨
 
-Join daily.dev! It's a professional network for developers to learn, collaborate, and grow together.
+⌨️ Join daily.dev! It's a professional network for developers to learn, collaborate, and grow together.
 
-Connect with me on:
+# 📱 Connect with me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anjapetry/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@TreyJapan) 
 
 # 💻 Tech Stack:
