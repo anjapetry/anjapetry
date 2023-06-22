@@ -1,6 +1,6 @@
-### Hi there, hallo, bonjour, hoi, dag 👋 
+# Hi there, hallo, bonjour, dag, hej! 👋 
  
-I'm Anja, a language-loving frontend web developer who loves to learn something new every day 🌞
+I'm Anja, a language-loving mainly self-taught and coding boot camp trained frontend web developer who loves to learn something new every day 🌞
 
 🔭 Currently working on my personal portfolio plus a variety of projects to deepen my knowledge React, Next.js 13, Typescript plus databases.
 In addition to that, Three.js, Astro and Svelte are high on my want-to-learn list in 2023. 
