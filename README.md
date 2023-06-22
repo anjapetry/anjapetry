@@ -17,6 +17,4 @@ In addition to that, Three.js, Astro and Svelte are high on my want-to-learn lis
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
