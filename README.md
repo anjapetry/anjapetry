@@ -2,12 +2,13 @@
 # Hi there, hallo, bonjour, dag, hej! 👋 
 
 
-I'm Anja, a language-loving mainly self-taught and coding boot camp trained frontend web developer who loves to learn something new every day 🌞
+🌈 I'm Anja, a front-end web developer ( self-taught and coding boot camp trained) who loves to learn something new every day 🌞
 
-🔭 Currently working on my personal portfolio plus a variety of projects to deepen my knowledge React, Next.js 13, Typescript plus databases.
-In addition to that, Three.js, Astro and Svelte are high on my want-to-learn list in 2023 & 2024.
+🔭 Currently, I'm building my personal website and portfolio, while deepening my knowledge of React, Typescript, and Next.js 13.
+ 
+🖼️ Besides, I'm exploring Figma's new dev mode and UI/ UX design principles to further my web design knowledge.  
 
-🎨 I love CSS and among its gazillion frameworks Tailwindcss is my favourite.
+🎨 I love CSS, and among its gazillion frameworks Tailwindcss is by far my favourite.
 
 ⌨️ Join daily.dev! It's a professional network for developers to learn, collaborate, and grow together. You can find me on dev.to as well.
 
