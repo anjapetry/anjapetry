@@ -2,15 +2,19 @@
 ## Hi there, hallo, bonjour, dag, hej! 👋 
 
 
-🌈 I'm Anja, a front-end web developer ( self-taught and coding boot camp trained) who loves to learn something new every day 🌞
+🌈 I'm Anja, a self-taught frontend developer and recent coding bootcamp grad (opencampus's frontend developer program 2021/2022 in Kiel, Germany) 🌞 
 
-🔭 Currently, I'm building my personal website and portfolio, while deepening my knowledge of React, Typescript, and Next.js 13.
+🫵 Are you hiring new developers? ​ I am looking for a remote, full-time position as a (junior) front-end developer! Let's talk! 📲​
+
+​👩‍💻​ Group activities! Apart from being a WomenWhoCode mentee, I'm an active member of Ladies Who Code London (at present, we're collaborating on test driven development (TDD) projects) and regularly participate in regional and remote coding meetups and conferences
+
+🔭 Currently, I'm building my personal website and portfolio while deepening my knowledge of React, Typescript, and Next.js 13.
  
 🖼️ Besides, I'm exploring Figma's new dev mode and UI/ UX design principles to further my web design knowledge.  
 
-🎨 I love CSS, and among its gazillion frameworks Tailwindcss is by far my favourite.
+🎨  I love CSS, and among its gazillion frameworks Tailwindcss is by far my favourite.
 
-⌨️ Join daily.dev! It's a professional network for developers to learn, collaborate, and grow together. You can find me on dev.to as well.
+⌨️ Join me on daily.dev! It's a professional network for developers to learn, collaborate, and grow together. You can find me on dev.to as well.
 
 ### 📱 Connect with me on:
 
