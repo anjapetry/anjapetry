@@ -2,11 +2,11 @@
 ## Hi there, hallo, bonjour, dag, hej! 👋 
 
 
-🌈 I'm Anja, a self-taught frontend developer and recent coding bootcamp grad (opencampus's frontend developer program 2021/2022 in Kiel, Germany) 🌞 
+🌈 I'm Anja, a self-taught frontend developer and recent coding bootcamp grad (Opencampus's frontend developer program 2021/2022 in Kiel, Germany) 🌞 
 
-🫵 Are you hiring new developers? ​ I am looking for a remote, full-time position as a (junior) front-end developer! Let's talk! 📲​
+🫵 Are you hiring new developers? ​I am looking for a remote, full-time position as a (junior) front-end developer! Let's talk! 📲​
 
-​👩‍💻​ Group activities! Apart from being a WomenWhoCode mentee, I'm an active member of Ladies Who Code London (at present, we're collaborating on test driven development (TDD) projects) and regularly participate in regional and remote coding meetups and conferences
+​👩‍💻​ Group activities! Apart from being a WomenWhoCode mentee, I'm an active member of Ladies Who Code London (at present, we're collaborating on test driven development (TDD) projects) and regularly participate in regional and remote coding meet-ups and conferences
 
 🔭 Currently, I'm building my personal website and portfolio while deepening my knowledge of React, Typescript, and Next.js 13.
  
