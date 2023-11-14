@@ -1,30 +1,34 @@
 
 ## Hi there, hallo, bonjour, dag, hej! 👋 
 
-
+<br>
 🌈 I'm Anja, a self-taught frontend developer and recent coding bootcamp grad (Opencampus's frontend developer program 2021/2022 in Kiel, Germany) 🌞 
-
+My focus is on HTML, CSS (especially TailwindCSS), React.js, and Next.js 14. I also have keen eye for design and details. 
+<br/>
+<br/>
 🫵 Are you hiring new developers? ​I am looking for a remote, full-time position as a (junior) front-end developer! Let's talk! 📲​
+<br/>
 
-​👩‍💻​ Group activities! Apart from being a WomenWhoCode mentee, I'm an active member of Ladies Who Code London (at present, we're collaborating on test driven development (TDD) projects) and regularly participate in regional and remote coding meet-ups and conferences
 
-🔭 Right now, I'm building my personal website and portfolio while deepening my knowledge of React, Typescript, and Next.js 14 (plus a smidgen of Framer Motion).
- 
-🖼️ Besides, I'm exploring Figma's new dev mode and UI/ UX design principles to further my web design knowledge.  
+​👩‍💻​ Right now, I'm crafting my personal website and portfolio while deepening my knowledge of React, Typescript, Next.js 14.
+<br/>
+🔭 Further explorations: Framer Motion, Figma's new dev mode, and UI/ UX design principles to enhance my web design knowledge.  
 
-🎨  I love CSS, and among its gazillion frameworks Tailwindcss is by far my favourite.
 
-⌨️ Join me on daily.dev! It's a professional network for developers to learn, collaborate, and grow together.
+🤝 Apart from being a WomenWhoCode member, I also participate in Ladies Who Code London (at present, we're collaborating on test driven development projects) and regularly take part in regional and remote coding meet-ups and conferences
+<br/>
 
-### 📱 Connect with me on:
+### 📱 Connect with me on [LinkedIn](https://linkedin.com/in/anjapetry)
 
- LinkedIn ![](https://linkedin.com/in/anjapetry) 
- daily.dev ![](https://app.daily.dev/treyjapan)
- Dev.to ![](https://dev.to/anjapetry)
- 
+Join me on [daily.dev](https://app.daily.dev/treyjapan)!
+It's a professional network for developers to learn, collaborate, and grow together.
+<br/>
+<br/>
+
 
 ### 💻 My Tech Stack & 🚀 Skills & Tools I've worked with in varying degrees
-
+<br/>
+<br/>
 📋 Languages
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
