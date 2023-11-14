@@ -8,7 +8,7 @@
 
 ​👩‍💻​ Group activities! Apart from being a WomenWhoCode mentee, I'm an active member of Ladies Who Code London (at present, we're collaborating on test driven development (TDD) projects) and regularly participate in regional and remote coding meet-ups and conferences
 
-🔭 Currently, I'm building my personal website and portfolio while deepening my knowledge of React, Typescript, and Next.js 13.
+🔭 Right now, I'm building my personal website and portfolio while deepening my knowledge of React, Typescript, and Next.js 14 (plus a smidgen of Framer Motion).
  
 🖼️ Besides, I'm exploring Figma's new dev mode and UI/ UX design principles to further my web design knowledge.  
 
