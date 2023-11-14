@@ -8,13 +8,12 @@ My focus is on HTML, CSS (especially TailwindCSS), React.js, and Next.js 14. I a
 <br/>
 🫵 Are you hiring new developers? ​I am looking for a remote, full-time position as a (junior) front-end developer! Let's talk! 📲​
 <br/>
-
+<br/>
 
 ​👩‍💻​ Right now, I'm crafting my personal website and portfolio while deepening my knowledge of React, Typescript, Next.js 14.
 <br/>
 🔭 Further explorations: Framer Motion, Figma's new dev mode, and UI/ UX design principles to enhance my web design knowledge.  
-
-
+<br/>
 🤝 Apart from being a WomenWhoCode member, I also participate in Ladies Who Code London (at present, we're collaborating on test driven development projects) and regularly take part in regional and remote coding meet-ups and conferences
 <br/>
 
@@ -26,10 +25,11 @@ It's a professional network for developers to learn, collaborate, and grow toget
 <br/>
 
 
-### 💻 My Tech Stack & 🚀 Skills & Tools I've worked with in varying degrees
+### 💻 My Tech Stack & 🚀 Skills (tools I've worked with in varying degrees)
 <br/>
-<br/>
+
 📋 Languages
+
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -163,16 +163,11 @@ It's a professional network for developers to learn, collaborate, and grow toget
 
 ![esLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
- 
-📱 Mobile Frameworks
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ⚙️ ORM
 
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
- 
+
 💻 Terminal
 
 ![iTerm](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)
