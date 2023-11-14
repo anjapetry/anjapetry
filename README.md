@@ -14,21 +14,16 @@
 
 🎨  I love CSS, and among its gazillion frameworks Tailwindcss is by far my favourite.
 
-⌨️ Join me on daily.dev! It's a professional network for developers to learn, collaborate, and grow together. You can find me on dev.to as well.
+⌨️ Join me on daily.dev! It's a professional network for developers to learn, collaborate, and grow together.
 
 ### 📱 Connect with me on:
 
- ![LinkedIn](https://linkedin.com/in/anjapetry/) 
- ![Dev.to](https://dev.to/anjapetry)
+ LinkedIn ![](https://linkedin.com/in/anjapetry) 
+ daily.dev ![](https://app.daily.dev/treyjapan)
+ Dev.to ![](https://dev.to/anjapetry)
  
 
 ### 💻 My Tech Stack & 🚀 Skills & Tools I've worked with in varying degrees
-
-📱 Contact:
-
-![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
-![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white)
-![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
 
 📋 Languages
 
