@@ -3,7 +3,7 @@
 
 <br>
 🌈 I'm Anja, a self-taught frontend developer and recent coding bootcamp grad (Opencampus's frontend developer program 2021/2022 in Kiel, Germany) 🌞 
-My focus is on HTML, CSS (especially TailwindCSS), React.js, and Next.js 14. I also have keen eye for design and details. 
+My focus is on crafting accessible websites and apps with HTML, CSS (especially TailwindCSS), React.js, and Next.js 14. A true language lover, I also have keen eye for design and details. 
 <br/>
 <br/>
 🫵 Are you hiring new developers? ​I am looking for a remote, full-time position as a (junior) front-end developer! Let's talk! 📲​
@@ -25,8 +25,7 @@ It's a professional network for developers to learn, collaborate, and grow toget
 <br/>
 
 
-### 💻 My Tech Stack & 🚀 Skills (tools I've worked with in varying degrees)
-<br/>
+### 💻 My Tech Stack & 🚀 Skills (tools I've worked over the years)
 
 📋 Languages
 
