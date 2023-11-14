@@ -25,7 +25,7 @@ It's a professional network for developers to learn, collaborate, and grow toget
 <br/>
 
 
-### 💻 My Tech Stack & 🚀 Skills (tools I've worked over the years)
+### 💻 My Tech Stack &  🚀 Skills (tools I've worked over the years)
 
 📋 Languages
 
