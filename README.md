@@ -10,7 +10,7 @@ My focus is on crafting accessible websites and apps with HTML, CSS (especially 
 <br/>
 <br/>
 
-​👩‍💻​ Right now, I'm crafting my personal website and portfolio while deepening my knowledge of React, Typescript, Next.js 14.
+​👩‍💻​ Right now, I'm crafting my personal website and portfolio while deepening my knowledge of React, Typescript, Next.js 14. In 2024, exploring Astro more fully is on my radar, as is expanding my accessibilty skills.
 <br/>
 🔭 Further explorations: Framer Motion, Figma's new dev mode, and UI/ UX design principles to enhance my web design knowledge.  
 <br/>
