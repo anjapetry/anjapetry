@@ -10,7 +10,7 @@ My focus is on crafting accessible websites and apps with HTML, CSS (especially 
 <br/>
 <br/>
 
-​👩‍💻​ Right now, I'm crafting my personal website and portfolio while deepening my knowledge of React, Typescript, Next.js 14. In 2024, exploring Astro more fully is on my radar, as is expanding my accessibilty skills.
+​👩‍💻​ At the moment, I'm crafting my personal website and portfolio while deepening my knowledge of React, Typescript, Next.js 14. In 2024, exploring Astro more fully is on my radar, as is expanding my accessibility skills.
 <br/>
 🔭 Further explorations: Framer Motion, Figma's new dev mode, and UI/ UX design principles to enhance my web design knowledge.  
 <br/>
@@ -25,7 +25,7 @@ It's a professional network for developers to learn, collaborate, and grow toget
 <br/>
 
 
-### 💻 My Tech Stack &  🚀 Skills (tools I've worked over the years)
+### 💻 My Tech Stack &  🚀 Skills (tools I've worked with over the years)
 
 📋 Languages
 
@@ -43,7 +43,6 @@ It's a professional network for developers to learn, collaborate, and grow toget
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
