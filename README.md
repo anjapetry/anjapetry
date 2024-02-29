@@ -96,7 +96,7 @@ It's a professional network for developers to learn, collaborate, and grow toget
 
 🔔 Tests
 
-¡[Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
 
 🤖 Artificial Intelligence
