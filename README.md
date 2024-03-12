@@ -3,18 +3,18 @@
 
 <br>
 🌈 I'm Anja, a self-taught frontend developer and recent coding bootcamp grad (Opencampus's frontend developer program 2021/2022 in Kiel, Germany) 🌞 
-My focus is on crafting accessible websites and apps with HTML, CSS (especially TailwindCSS), React.js, and Next.js 14. A true language lover, I also have keen eye for design and details. 
+My focus is on crafting accessible websites and apps with HTML, CSS (especially TailwindCSS), React.js, and Next.js 14. A true language lover, I also have a keen eye for design and details. 
 <br/>
 <br/>
 🫵 Are you hiring new developers? ​I am looking for a remote, full-time position as a (junior) front-end developer! Let's talk! 📲​
 <br/>
 <br/>
 
-​👩‍💻​ At the moment, I'm crafting my personal website and portfolio while deepening my knowledge of React, Typescript, Next.js 14. In 2024, exploring Astro more fully is on my radar, as is expanding my accessibility skills.
+​👩‍💻​ Presently, I'm crafting my personal website and portfolio while deepening my knowledge of React, Typescript, Next.js 14. In 2024, exploring Astro more fully is on my radar, as is expanding my accessibility skills. My goal is to become an a11y expert before June 2025.
 <br/>
-🔭 Further explorations: Framer Motion, Figma's new dev mode, and UI/ UX design principles to enhance my web design knowledge.  
+🔭 Further explorations: Framer Motion, Three.js, Figma's dev mode, and UI/ UX design principles to enhance my web design knowledge.  
 <br/>
-🤝 Apart from being a WomenWhoCode member, I also participate in Ladies Who Code London (at present, we're collaborating on test driven development projects) and regularly take part in regional and remote coding meet-ups and conferences
+🤝 Coding community: I joined WomenWhoCode in 2023, participate in Ladies Who Code London, and regularly take part in regional & remote coding meet-ups and conferences. You can find me on Discord, dev.to, and on [deta.space](https://deta.space/).
 <br/>
 
 ### 📱 Connect with me on [LinkedIn](https://linkedin.com/in/anjapetry)
@@ -43,7 +43,7 @@ It's a professional network for developers to learn, collaborate, and grow toget
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
-![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
+![ChakraUI](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
