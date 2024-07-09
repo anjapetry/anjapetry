@@ -11,11 +11,11 @@ As a true language lover, I also have a keen eye for design and details.
 <br/>
 <br/>
 
-​👩‍💻​ Presently, I'm crafting my personal website and portfolio while deepening my knowledge of React, Typescript, Next.js 14. In 2024, exploring Astro more fully is on my radar, as is expanding my accessibility skills. My goal is to become an a11y and animations expert before June 2025.
+​👩‍💻​ Presently, I'm crafting my personal website and portfolio while deepening my knowledge of React, Typescript, and Next.js. In 2024, exploring Astro is on my radar, as is expanding my accessibility skills. My goal is to become an a11y and animations expert before June 2025.
 <br/>
-🔭 Further explorations: Framer Motion, Three.js, Figma's dev mode, and UI/ UX design principles to enhance my web design knowledge.  
+🔭 Further explorations: animating the web with Framer Motion, Three.js, and GSAP. 
 <br/>
-🤝 Coding community: I participate in Ladies Who Code London, and regularly take part in regional & remote coding meetups and conferences. 
+🤝 Coding community: I participate in Ladies Who Code London, and regularly take part in regional & remote coding meetups and conferences.
 You can find me on Discord, Medium, dev.to, and on [deta.space](https://deta.space/).
 <br/>
 
